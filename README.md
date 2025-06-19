@@ -1,27 +1,20 @@
-# Hi there! I'm Aryan Gupta
+# 👋 Hey there! I'm Aryan Gupta
 
-I'm a student who just finished 12th grade and recently started my journey into the world of tech. I'm really interested in **data science** and currently learning **Python** as my first programming language.
+I'm a first-year **B.Sc. (Vocational) Data Science & AI** student at *Bhavan's College, Andheri*. Having recently stepped out of 12th grade, I'm venturing into the fascinating world of technology with curiosity and drive.
 
-I may be a beginner, but I'm excited to learn and grow one step at a time!
+With a passion for data science, I'm currently learning Python as my first programming language—and it's been quite the ride so far!
 
----
+## 🌱 What I'm Currently Exploring
+- Python fundamentals — variables, data types, loops, and functions  
+- Version control with Git and GitHub  
+- Basics of data science and its real-world applications  
+- Beginner-friendly projects to sharpen my growing skillset  
 
-## 🌱 What I'm Learning
-- Python (basics, data types, loops, functions)
-- How to use Git and GitHub
-- Exploring the world of data science
-- Learning how to build small projects
+## 🎯 My Goal
+To become a data scientist and use the power of data to tackle real-world challenges in innovative ways.
 
----
-
-## 🎯 Goal
-I want to become a **Data Scientist** in the future and work on real-world problems using data and machine learning.
-
----
-
-## 🛠 Projects
-I'm working on small beginner projects in Python.  
-More coming soon as I practice and learn!
+## 🛠️ Projects in Progress
+I'm working on small Python projects to apply what I'm learning. Stay tuned—bigger things are coming!
 
 ---
 
