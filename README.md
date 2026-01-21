@@ -1,27 +1,39 @@
-# 👋 Hey there! I'm Aryan Gupta
+# Hi there, I'm Aryan Gupta 👋
 
-I'm a first-year **B.Sc. (Vocational) Data Science & AI** student at *Bhavan's College, Andheri*. Having recently stepped out of 12th grade, I'm venturing into the fascinating world of technology with curiosity and drive.
+I'm a first-year **B.Sc. (Vocational) Data Science & AI** student at **Bhavan’s College, Mumbai**, currently building my foundations in **Python**, **data analysis**, and **Linux (EndeavourOS/Arch)**.
 
-With a passion for data science, I'm currently learning Python as my first programming language—and it's been quite the ride so far!
-
-## 🌱 What I'm Currently Exploring
-- Python fundamentals — variables, data types, loops, and functions  
-- Version control with Git and GitHub  
-- Basics of data science and its real-world applications  
-- Beginner-friendly projects to sharpen my growing skillset  
-
-## 🎯 My Goal
-To become a data scientist and use the power of data to tackle real-world challenges in innovative ways.
-
-## 🛠️ Projects in Progress
-I'm working on small Python projects to apply what I'm learning. Stay tuned—bigger things are coming!
+I enjoy learning by building practical projects — from **modular CLI applications** in Python to **data analysis and visualization** tasks. I actively participate in hackathons and focus on developing real-world problem-solving skills through hands-on experimentation.
 
 ---
 
-## 📫 Let's Connect
-- Email: 9040aryangupta@gmail.com  
-- LinkedIn: [linkedin.com/in/aryan-rajesh-gupta-386449360](https://www.linkedin.com/in/aryan-rajesh-gupta-386449360)
+## 🌱 Currently Exploring
+- Python fundamentals and automation  
+- Building modular CLI tools with JSON-based persistence  
+- Git & GitHub workflows  
+- Data analysis concepts and visualization techniques  
+- Linux fundamentals using Arch-based systems (EndeavourOS)
 
 ---
 
-Thanks for visiting my profile!
+## 🛠 Projects
+- **Modular CLI Task Manager (Python & JSON)** — persistent storage, modular design, ongoing improvements  
+- **Data Analysis Projects (R & Python)** — EDA, regression models, and visualization  
+- **CLI Practice Projects** — strengthening control flow, input handling, and logic building  
+
+More projects are actively in progress 🚧
+
+---
+
+## 🎯 Goal
+To grow into a **Data Scientist** by building strong technical foundations and working on data-driven solutions to real-world problems.
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **aryansynthh@gmail.com**  
+- 💼 LinkedIn: *https://www.linkedin.com/in/aryan-rajesh-gupta-386449360*  
+- 🧑‍💻 GitHub: You’re already here 😄  
+
+---
+
+📌 *I believe in learning step by step — building, breaking, fixing, and improving.*
