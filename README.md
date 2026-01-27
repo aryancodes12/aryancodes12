@@ -40,6 +40,9 @@ To grow into a **Data Scientist** by building strong technical foundations and w
 
 ---
 
-## 📊 My GitHub Stats
+### ⚡ Power Level Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryancodes12&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryancodes12&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=aryancodes12&theme=radical&hide_border=true" height="165"/>
+</p>
