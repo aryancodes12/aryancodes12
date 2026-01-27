@@ -40,10 +40,9 @@ To grow into a **Data Scientist / AI Engineer** by mastering fundamentals and bu
 
 ---
 
-## ⚡ Power Level Stats
+## ⚡ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryancodes12&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryancodes12&theme=radical&hide_border=true" />
 </p>
 
 ---
