@@ -37,3 +37,9 @@ To grow into a **Data Scientist** by building strong technical foundations and w
 ---
 
 📌 *I believe in learning step by step — building, breaking, fixing, and improving.*
+
+---
+
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryancodes12&show_icons=true&theme=tokyonight)
