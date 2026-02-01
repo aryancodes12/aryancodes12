@@ -40,13 +40,18 @@ To grow into a **Data Scientist / AI Engineer** by mastering fundamentals and bu
 
 ---
 
+
 ## ⚡ GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryancodes12&show_icons=true&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ## 📈 Activity Graph
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryancodes12&theme=react-dark&hide_border=true)](https://github.com/aryancodes12)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryancodes12&theme=react-dark&hide_border=true"/>
+</p>
 
 ---
 
