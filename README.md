@@ -58,7 +58,7 @@ Always building something new ⚡
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryancodes12&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats-iota-lilac-37.vercel.app/api?username=aryancodes12&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryancodes12&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
 </p>
 
