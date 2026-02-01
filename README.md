@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=FF2E97&size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Aryan+Gupta+👋;Data+Science+%26+AI+Student;Python+Developer;Learning+Daily+%7C+Building+Projects+⚡" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=FF2E97&size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Aryan+Gupta+👋;Data+Science+%26+AI+Student;Python+Developer;Learning+Daily+%7C+Building+Projects+⚡" />
 
 <h1 align="center">Hey 👋 I'm Aryan Gupta</h1>
 
