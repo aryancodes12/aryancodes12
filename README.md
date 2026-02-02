@@ -76,7 +76,3 @@ Always building something new ⚡
 <p align="center">
 🔥 <i>Build. Break. Fix. Repeat. Every bug defeated = XP gained.</i>
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aryancodes12&color=ff2e97&style=flat-square"/>
-</p>
