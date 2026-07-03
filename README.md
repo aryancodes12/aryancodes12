@@ -24,6 +24,21 @@
 
 ---
 
+## 🎓 Education & Goals
+- 🏫 **B.Sc. in Data Science & Artificial Intelligence**
+- 📅 2nd Year | Expected Graduation: 2028
+- 🎯 Goal: Become a **Data Scientist / AI Engineer**, with a growing focus on **agentic AI systems**
+- 🔭 Currently applying classroom ML/stats fundamentals to real backend + data projects outside coursework
+
+---
+
+## 🧩 Coding Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/cq0uMBhKhA?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
 ## 🌱 Currently Learning
 - Migrating a Python auth system from JSON storage to MySQL (PyMySQL)
 - Agentic AI fundamentals — LLM APIs via the Anthropic SDK
