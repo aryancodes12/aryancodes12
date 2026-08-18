@@ -33,16 +33,16 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=aryancodes12&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=aryancodes12&show_icons=true&theme=radical&hide_border=true&border_radius=8" alt="GitHub Stats" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=aryancodes12&show_icons=true&theme=radical&hide_border=true&border_radius=8" alt="GitHub Stats" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryancodes12&layout=compact&theme=radical&hide_border=true&border_radius=8" alt="Top Languages" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryancodes12&layout=compact&theme=radical&hide_border=true&border_radius=8" alt="Top Languages" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryancodes12&theme=react-dark&hide_border=true&radius=8" alt="Activity Graph" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aryancodes12&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=aryancodes12&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
