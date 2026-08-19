@@ -11,7 +11,6 @@
 <a href="https://leetcode.com/aryancodes12">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=aryancodes12&style=for-the-badge&color=ff2e97" alt="Profile views" />
 
 </div>
 
