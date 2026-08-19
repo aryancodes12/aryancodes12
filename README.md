@@ -32,7 +32,7 @@
 ## 🔥 GitHub Streak & Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=aryancodes12&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak" width="49%"/>
+<!-- <img src="https://streak-stats.demolab.com?user=aryancodes12&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak" width="49%"/> -->
 <img src="https://github-stats-extended.vercel.app/api?username=aryancodes12&show_icons=true&theme=radical&hide_border=true&border_radius=8" alt="GitHub Stats" width="49%"/>
 </div>
 
@@ -50,7 +50,7 @@
 ## 🧩 LeetCode
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/aryancodes12?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/cq0uMBhKhA?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ---
